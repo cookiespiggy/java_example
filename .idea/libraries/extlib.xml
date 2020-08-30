@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="extlib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/hibernate_example/extlib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/hibernate_example/extlib" recursive="false" />
+  </library>
+</component>
